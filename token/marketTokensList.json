@@ -1,1 +1,25 @@
 
+{
+    "name": "marketList",
+    "tokens": [
+        {
+            "name": "PancakeSwap Token",
+            "symbol": "CAKE",
+            "price": "",
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "pair": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+            "position": 0,
+            "pairTokenType": 1,
+            "authentication": true,
+            "secure": true,
+            "logoURI": "https://raw.githubusercontent.com/agysabc/KillerWhale/main/tokenList/logo/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
+            "synopsis": "",
+            "communityQQ": "",
+            "communityTelegraph": "",
+            "communityTwitter": "",
+            "criticalPoint": 5000
+        }
+    ]
+}
